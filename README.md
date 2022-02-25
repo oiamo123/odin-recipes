@@ -11,3 +11,5 @@ As for what i've learned so far:
 How to setup up a html website from scratch as well as
 create multiple images
 How to use linux terminal to create directories and files
+
+Add index.html to end of link in order to access my sick af recipe website
